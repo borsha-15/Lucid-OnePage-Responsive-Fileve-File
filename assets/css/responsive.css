@@ -1,0 +1,176 @@
+
+/* View In 992 */
+@media (max-width:992px){
+    .phone { position: static; margin-top: 75px; width: 75%; margin-left: 16%;}
+    
+    .content h1 { color: #fff; font-size: 38px; margin-bottom: 22px;  }
+    .content h4 { margin-bottom: 18px; }
+    .content p { font-size: 15px; margin-bottom: 42px; }
+    .btn { padding: 12px 15px; font-size: 13px;  }
+    .tittle { margin-bottom: 53px; }
+    .feature-section .icon-box { width: 85px; height: 85px;  line-height: 85px; font-size: 26px; margin: auto; }
+    .item p { font-weight: 400; font-size: 14px; padding: 14px; }
+    .device-section { padding: 45px 0; padding-top: 56px;  }
+    .device-section .device{  width: 42%; }
+    .tittle h2 { margin-bottom: 25px; }
+    .item h2{ margin-top: 19px; }
+    .device-section p { padding-right: 20%; font-size: 15px; margin-bottom: 23px; }
+    .device-2{ width: 46%; padding-top: 36px; }
+    .device-2-section .super { margin-top: 5%;}
+    .device-2-section p { color: #999999; padding-right: 9%; font-size: 15px; margin-bottom: 22px;line-height: 22px; }
+    .great-section .text h5 { font-size: 24px; }
+    .great-section .text p { font-size: 22px }
+    .great-section .button { padding-left: 13%; }
+    .tittle h5 { font-size: 13px;}
+    .tittle h2 { font-size: 32px;}
+    .price h1 { text-align: center; font-size: 54px; padding: 40px; }
+    .order p { text-align: center; padding: 39px 0px; }
+    .order-button a { margin: 0px 40px; padding: 7px 4px 7px; border-radius: 5px; font-size: 17px;}
+    .form-box { padding: 42px 23px 22px 24px; width: 67%; border-radius: 1px;}
+    form textarea.form-control-msg { height: 149px; width: 96%;}
+    .footer-section { background: #15141a; padding: 8px 0;}
+}
+
+/* View In 766 */
+@media (max-width:768px){
+    .hide-mb{ display: none; }
+    .hide-dsk{ display: inline;  width: 80%}
+    .navbar-toggler-i1{ color: #fff; padding: 0;  font-size: 22px;}
+    .navbar-toggler{ padding: 0;}
+    .navbar-nav{ text-align: center;  margin-top: 40px; }
+    .navbar-toggler:focus { box-shadow: none; }
+    .nav-link{ display: inline; }
+    .nav-item { padding: 0 10px; padding-bottom: 10px; }
+    .height { flex-direction: column-reverse; }
+    .content{text-align: center; margin-top: 29px; margin-bottom: 41px; }
+    .phone { margin-top: 38px;  width: 66%; margin-left: 24%;}
+    .content p { margin-bottom: 33px; }
+    .tittle { margin-bottom: 47px; }
+    .device-section .device { width: 58%; margin: auto; margin-bottom:17px }
+    .device-2 { width: 83%; padding-top: 22px;  margin: auto; }
+    .device-section p { padding-right: 7%; font-size: 15px; margin-bottom: 23px;}
+    .device-2-section p { padding-right: 3%; }
+    .great-section .text{ margin-left: 3px;  padding-bottom: 10px; }
+    .great-section .text h5 { font-size: 28px;}   
+    .great-section .text p { font-size: 24px; }
+    .great-section .button { padding-left: 18%; }
+    .price-table{ padding-bottom: 30px; }
+    .item{margin-bottom: 10px;}
+    .price-section { margin: 46px 30px 5px; }
+    .contact-section { padding-bottom: 490px; }
+    .icon{ padding-bottom: 25px; }
+    .contact-section .icon i { padding-bottom: 17px; }
+    .form-box {    padding: 46px 31px 24px 40px; width: 57%; }
+    .form-control {  width: 95%; }
+    form textarea.form-control-msg { height: 149px;  width: 97%;}
+
+}
+
+/* View Im 575 */
+@media(max-width:576px){
+    .navbar-toggler-i1{ color: #fff; padding: 0;  font-size: 22px;}
+    .navbar-toggler{ padding: 0;}
+    .navbar-nav{ text-align: center;  margin-top: 40px; }
+    .navbar-toggler:focus { box-shadow: none; }
+    .nav-link{ display: inline; }
+    .nav-item { padding: 0 10px; padding-bottom: 10px; }
+    .content h4{ font-size: 13px;  margin-bottom: 14px; margin-top: 13px; }
+    .content p{ padding: 0 21px; }
+    .feature-section { padding-top: 41px; }
+    .devices { margin-top: 6%; margin-left: 27px; }
+    .device-2-section { padding: 22px 0; }
+    .device-2-section .super { margin-left: 26px;  padding-right: 42px; }
+    .great-section .text { margin-left: 17px; padding-bottom: 12px; }
+    .great-section .text h5 {font-size: 24px;}
+    .great-section .text p { font-size: 23px;}
+    .btn { padding: 12px 12px;  font-size: 12px;}
+    .great-section .button { padding-left: 20%; } 
+    .order p { text-align: center; padding: 38px 14px; }
+    .order-button a {  margin: 0px 34%;  padding: 13px 6px 12px;}
+    .step{ padding-bottom: 18px;  }
+    .form-box {  width: 70%;}
+    form textarea.form-control-msg { height: 149px;  width: 319px;}
+    .great-section .button {padding-left: 14%;}
+    .order p { padding: 30px 14px;     font-size: 15px;}
+    .order-button a { font-size: 15px; margin: 0px 32%; padding: 10px 6px 10px;}
+    .order-button { padding-bottom: 27px;}
+    .form-box form input[type='submit'] {  font-size: 13px;margin: 10px auto;}
+
+}
+
+/* View in 425 */
+@media(max-width:426px){
+    .navbar-toggler-i1{ color: #fff; padding: 0;  font-size: 22px;}
+    .navbar-toggler{ padding: 0;}
+    .navbar-nav{ text-align: center;  margin-top: 40px; }
+    .navbar-toggler:focus { box-shadow: none; }
+    .nav-link{ display: inline; }
+    .nav-item { padding: 0 10px; padding-bottom: 10px; }
+    .content h4 {  font-size: 12px;  margin-bottom: 12px; }
+    .content h1 { font-size: 32px; }
+    .content p { margin-bottom: 33px;font-weight: 500; }
+    .tittle h5 { font-size: 12px; margin-bottom: 8px;}
+    .tittle h2 { font-size: 28px; }
+    .item { margin-bottom: 16px;  margin: 0; }
+    .item p { font-size: 15px; padding: 2px 18px;}
+    .feature-section {padding-top: 16px;margin: 0;}
+    .tittle { margin-bottom: 47px; margin: 0; padding: 10px 0 32px;}
+    .devices { margin: 0; padding-left: 27px; margin-top: 24px;}
+    .device-2-section .super {  padding-left: 28px; margin: 0;}
+    .great-section {padding: 13px 0;}
+    .great-section .text p {font-size: 21px;}
+    .great-section .text h5 {  font-size: 23px;}    
+    .btn {  padding: 12px 12px; font-size: 11px;}
+    .great-section .text {  padding-bottom: 12px; margin: 0; text-align: center;}
+    .device-icon ul li h4 { font-size: 16px;}
+    .device-2 {width: 83%;   padding-top: 10px;}
+    .price h1 { padding: 30px 13px;}
+    .order-button a { margin: 0px 42px; padding: 7px 4px 7px; border-radius: 5px; font-size: 16px;margin: 0px 33%;padding: 12px 6px 12px;}
+    .order p {padding: 35px 14px;}
+    form textarea.form-control-msg { height: 130px;width: 97%;}
+    .footer-section { background: #15141a; padding: 1px 0;}
+    foot-icon ul li { display: inline; margin: 13px;}
+    .foot-icon ul li a { margin-top: 10%; color: #999999; font-size: 15px;}
+    .footer-section .copyright p { color: #999999; text-align: center; font-size: 13px;}
+    .contact-section .icon i {  font-size: 23px;}
+    .contact-section .icon p{ font-size: 14px;}
+    .contact-section { padding-bottom: 440px;}
+}
+
+
+/* View in 320 */
+@media(max-width:321px){
+    body{margin: 0}
+    .content h4 {  font-size: 11px;}
+    .content h1 { font-size: 28px;}
+    .content p {margin-bottom: 26px;}
+    .content { text-align: center;margin-top: 29px;margin-bottom: 35px;}
+    .tittle h5 {font-size: 11px;}
+    .tittle h2 {font-size: 26px;}
+    .feature-section .icon-box {width: 80px;height: 80px;line-height: 80px;font-size: 23px;}
+    .item p { font-size: 14px;padding-bottom: 12px;}
+    .navbar{ margin:0 }
+    .height{ margin: 0;}
+    .div-sec{ margin: 0; }
+    .foot-row{ margin: 0;}
+    .contact-section .caption{ margin: 0 }
+    .device-2-section p { color: #999999;padding-right: 9%; font-size: 14px;}
+    .great-section .text h5 { font-size: 22px;}
+    .great-section .text p {  font-size: 20px;}
+    .great-section .button { padding-left: 15%;}
+    .btn { display:inline;padding: 9px 9px;font-size: 9px;}
+    .great-section .button .btn.btn-download { border-radius: 6px;}
+    .price-title h2 { font-size: 23px;}
+    .price h1 {padding: 17px 13px;  font-size: 51px;}
+    .order p { padding: 26px 14px; font-size: 15px}
+     .order-button a {font-size: 15px; margin: 0px 64px;}
+    .order-button a { margin: 0px 42px;padding: 7px 4px 7px; border-radius: 5px;font-size: 15px; margin: 0px 28%; padding: 9px 7px 9px;}
+    .contact-section .icon i { font-size: 20px;  padding-bottom: 14px;}
+    .form-box form input[type='submit'] { font-size: 11px; margin: 10px auto;}
+    .form-box{ border-radius:2px }
+    .foot-icon ul {margin-top: 17px;}
+    .foot-icon ul li { display: inline; margin: 12px;}  
+    .foot-icon ul li a { margin-top: 10%; font-size: 13px;} 
+    .footer-section .copyright p { font-size: 12px;  margin-top: 6px;}
+
+}
